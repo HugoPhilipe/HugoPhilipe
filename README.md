@@ -1,8 +1,9 @@
 
+## Hi there! I am Hugo Philipe.
+
 - 🔭 I’m currently working on Web Applications with Java
 - 🌱 I’m currently learning Angular and Spring Boot
 
-## Hi there! I am Hugo Philipe.
 <div align="center">
   <a href="https://github.com/HugoPhilipe">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HugoPhilipe&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
