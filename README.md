@@ -1,6 +1,6 @@
 
 - 🔭 I’m currently working on Web Applications with Java
-- 🌱 I’m currently learning Spring
+- 🌱 I’m currently learning Angular and Spring Boot
 
 ## Hi there! I am Hugo Philipe.
 <div align="center">
