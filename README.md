@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on Web Applications with Java
 - 🌱 I’m currently learning Angular and Spring Boot
+- I Wish one day to live in the USA and develop for a company there
+
 
 <div>
   <a href="https://github.com/HugoPhilipe">
