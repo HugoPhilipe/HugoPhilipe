@@ -1,9 +1,9 @@
 
 ## Hi there! I am Hugo Philipe.
 
--🔭 I’m currently working on Web Applications with Java
+-🔭 I’m currently working on Web Applications with Java               
 -🌱 I’m currently learning Angular and Spring Boot
--  I Wish one day work as developer for a US company
+- I Wish one day work as developer for a US company
 
 
 <div>
